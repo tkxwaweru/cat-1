@@ -2,6 +2,18 @@
 
 # Manipulating the MASSIVE dataset using python
 
+## Quick Links
+
+- [Introduction](https://github.com/tkxwaweru/cat-1#introduction)
+
+- [Project installation](https://github.com/tkxwaweru/cat-1#project-installation)
+
+- [Running the project](https://github.com/tkxwaweru/cat-1#running-the-project)
+
+- [Disclaimer](https://github.com/tkxwaweru/cat-1#disclaimer)
+
+- [Output files](https://github.com/tkxwaweru/cat-1#output-files)
+
 ## Introduction
 
 This repository contains code that makes use of the MASSIVE dataset by amazon using python. MASSIVE is a parallel dataset of more than 1 million utterances across 52 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation. Utterances span 60 intents and include 55 slot types.
