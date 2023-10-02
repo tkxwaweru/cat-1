@@ -42,24 +42,11 @@ You can read more about the dataset [here](https://github.com/alexa/massive#read
 
    You can read more on working with anaconda [here](https://docs.anaconda.com/free/navigator/tutorials/index.html).
 
-   Use either pip or anaconda to install the following dependencies into your environment:
+   You can use pip to install all the project's dependencies into your environment:
 
-   1. [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - a Python library to read/write Excel xlsx/xlsm files
-      ```
-      pip install openpyxl
-      ```
-   2. [jsonlines](https://jsonlines.readthedocs.io/en/latest/) - a Python library to simplify working with jsonlines and ndjson data.
-      ```
-      pip install jsonlines
-      ```
-   3. [pandas](https://pandas.pydata.org/) - a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
-      ```
-      pip install pandas
-      ```
-   4. [numpy](https://numpy.org/) - a fundamental package for scientific computing with Python
-      ```
-      pip install numpy
-      ```
+   ```
+   pip install -r requirements.txt
+   ```
 
 2. Fork and clone this repository.
 
