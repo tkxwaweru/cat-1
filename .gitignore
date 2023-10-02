@@ -1,3 +1,7 @@
 venv/
 src/data/
 requirements.txt
+outputs/combined_languages/
+outputs/data_excel/
+outputs/partition_languages/
+outputs/translations/
