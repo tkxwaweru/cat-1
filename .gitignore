@@ -5,4 +5,6 @@ outputs/data_excel/
 outputs/partition_languages/
 outputs/translations/
 src/__pycache__/
-
+backup.py
+credentials.json
+token.json
