@@ -1,3 +1,5 @@
+# This code is used to back up the output folder into google drive.
+
 import os
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials

@@ -1,4 +1,4 @@
-# A class used to create one large jsonl file that holds translations from english
+# This class creates one large .jsonl file that holds translations from english
 # to all the other languages of the dataset
 
 import os

@@ -1,4 +1,4 @@
-# A class to convert the jsonl files from the dataset to excel files
+# This class converts the .jsonl files from the dataset to excel files
 
 import os
 import jsonlines

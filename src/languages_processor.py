@@ -1,4 +1,4 @@
-# A class to process translations from english to the other languages of the dataset
+# This class processes translations from english to the other languages of the dataset
 
 import os
 import pandas as pd

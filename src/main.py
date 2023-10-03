@@ -1,6 +1,4 @@
-# main function of project
-
-# main.py
+# Main function of project - main.py
 
 import argparse
 from jsonline_processor import JsonlProcessor
