@@ -1,10 +1,6 @@
 venv/
 src/data/
-outputs/combined_languages/
-outputs/data_excel/
-outputs/partition_languages/
-outputs/translations/
+outputs/
 src/__pycache__/
-backup.py
 credentials.json
 token.json
